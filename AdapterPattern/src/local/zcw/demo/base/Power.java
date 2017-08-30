@@ -8,8 +8,4 @@ package local.zcw.demo.base;
 public interface Power {
 
     int output();
-
-    default void setDc() {
-        
-    }
 }
