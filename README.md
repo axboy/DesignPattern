@@ -11,3 +11,7 @@
 * [单例模式](SingletonPattern)
 
 * [原型模式](PrototypePattern)
+
+### 结构型模式
+
+* [适配器模式](AdapterPattern)
