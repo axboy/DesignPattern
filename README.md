@@ -7,3 +7,7 @@
 * [抽象工厂模式](AbstractFactoryPattern)
 
 * [建造者模式](BuilderPattern)
+
+* [单例模式](SingletonPattern)
+
+* [原型模式](PrototypePattern)
