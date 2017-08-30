@@ -12,5 +12,5 @@ public interface NokiaFactory {
      *
      * @return
      */
-    NokiaPhone produceNokiaPhone(String type) throws PhoneTypeErrorException;
+    NokiaPhone produceNokiaPhone();
 }

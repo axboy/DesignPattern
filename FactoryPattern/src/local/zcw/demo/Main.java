@@ -1,7 +1,6 @@
 package local.zcw.demo;
 
 import local.zcw.demo.factory.HmdFactory;
-import local.zcw.demo.factory.NokiaFactory;
 import local.zcw.demo.factory.NokiaPhone;
 import local.zcw.demo.factory.PhoneTypeErrorException;
 
@@ -13,7 +12,7 @@ import local.zcw.demo.factory.PhoneTypeErrorException;
 public class Main {
 
     public static void main(String[] args) throws PhoneTypeErrorException {
-        NokiaFactory factory = new HmdFactory();
+        HmdFactory factory = new HmdFactory();
         NokiaPhone phone1 = factory.produceNokiaPhone("Nokia920");
         System.out.println(phone1.info());
 
