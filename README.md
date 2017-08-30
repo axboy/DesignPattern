@@ -5,3 +5,5 @@
 * [工厂模式](FactoryPattern)
 
 * [抽象工厂模式](AbstractFactoryPattern)
+
+* [建造者模式](BuilderPattern)
