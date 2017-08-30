@@ -1,4 +1,4 @@
-package local.zcw.demo;
+package local.zcw.demo.base;
 
 /**
  * 作者 zcw
@@ -8,4 +8,8 @@ package local.zcw.demo;
 public interface Power {
 
     int output();
+
+    default void setDc() {
+        
+    }
 }

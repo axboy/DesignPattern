@@ -1,4 +1,9 @@
-package local.zcw.demo;
+package local.zcw.demo.chapter1;
+
+import local.zcw.demo.base.Power;
+import local.zcw.demo.base.Power220V;
+import local.zcw.demo.base.USDevice;
+import local.zcw.demo.base.USPc;
 
 /**
  * 作者 zcw
