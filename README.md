@@ -15,3 +15,5 @@
 ### 结构型模式
 
 * [适配器模式](AdapterPattern)
+
+* [桥接模式](BridgePattern)
