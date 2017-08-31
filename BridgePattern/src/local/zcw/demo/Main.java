@@ -9,13 +9,10 @@ package local.zcw.demo;
 public class Main {
     public static void main(String[] args) {
 
-        Phone android = new AndroidPhone();
-        Phone iPhone = new ApplePhone();
+        OS linux = new LinuxOS();
+        OS win = new WinOS();
 
-        AUser aUser = new AUser(android);
-        aUser.call();
-        aUser.changePhone(iPhone);
-        aUser.call();
-
+        LenovoPC pc = new LenovoPC(linux);
+        pc.start();
     }
 }
