@@ -17,3 +17,5 @@
 * [适配器模式](AdapterPattern)
 
 * [桥接模式](BridgePattern)
+
+* [装饰器模式](DecoratorPattern)
