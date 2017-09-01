@@ -26,7 +26,7 @@
 
 * [享元模式](FlyweightPattern)
 
-* [代理模式]()
+* [代理模式](ProxyPattern)
 
 ### 行为型模式
 
