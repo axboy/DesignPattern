@@ -24,7 +24,7 @@
 
 * [外观模式](FacadePattern)
 
-* [享元模式]()
+* [享元模式](FlyweightPattern)
 
 * [代理模式]()
 
