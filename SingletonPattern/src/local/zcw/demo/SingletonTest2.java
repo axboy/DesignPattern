@@ -3,7 +3,7 @@ package local.zcw.demo;
 /**
  * 作者 zcw
  * 时间 2017/8/30 12:16
- * 描述 TODO
+ * 描述 懒汉式，线程不安全
  */
 public class SingletonTest2 {
 
