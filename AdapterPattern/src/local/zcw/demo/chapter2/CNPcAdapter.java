@@ -14,7 +14,6 @@ public class CNPcAdapter extends USPc {
         //TODO 各种赋值操作，将美式设备换成国内设备
     }
 
-    @Override
     public void open(Power power) {
         System.out.println("us pc adapter");
         System.out.println("us pc open with 220v");
