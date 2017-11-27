@@ -34,13 +34,13 @@
 
 * [命令模式](CommandPattern)
 
-* [迭代器模式]()
+* [迭代器模式](IteratorPattern)
 
-* [观察者模式]()
+* [观察者模式](ObserverPattern)
 
-* [中介者模式]()
+* [中介者模式](MediatorPattern)
 
-* [备忘录模式]()
+* [备忘录模式](MementoPattern)
 
 * [解释器模式]()
 
