@@ -42,12 +42,12 @@
 
 * [备忘录模式](MementoPattern)
 
-* [解释器模式，TODO](InterpreterPattern)
+* TODO[解释器模式](InterpreterPattern)
 
-* [状态模式]()
+* [状态模式](StatePattern)
 
-* [策略模式]()
+* [策略模式](StrategyPattern)
 
-* [责任链模式]()
+* [责任链模式](ChainOfResponsibilityPattern)
 
-* [访问者模式]()
+* [访问者模式](VisitorPattern)
