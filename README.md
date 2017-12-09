@@ -42,7 +42,7 @@
 
 * [备忘录模式](MementoPattern)
 
-* TODO[解释器模式](InterpreterPattern)
+* [解释器模式](InterpreterPattern)TODO
 
 * [状态模式](StatePattern)
 

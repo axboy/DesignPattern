@@ -16,6 +16,7 @@ public class DataFactory {
         Model model = data.get(i);
         if (model == null) {
             model = new Model(i, "default value");
+            data.put(i, model);
         }
         return model;
     }

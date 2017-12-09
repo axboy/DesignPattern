@@ -31,12 +31,4 @@ public class Model {
     public void setValue(String value) {
         this.value = value;
     }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (obj.getClass() != this.getClass()) {
-            return false;
-        }
-        return id == ((Model) obj).getId();
-    }
 }
